@@ -4,3 +4,4 @@ library child-dev-1 finish!
 library child-dev-2 finish!
 
 branch name = macao
+macao version 1.0.0 done!
