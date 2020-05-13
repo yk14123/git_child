@@ -1,3 +1,4 @@
 child init
 
-library child-dev-1 finish! 
+library child-dev-1 finish!
+library child-dev-2 finish!
