@@ -4,4 +4,8 @@ text temp-1
 text temp-2
 text temp-finish
 
+<<<<<<< HEAD  当前分支
 text-2:xxx
+=======
+text-1:xxx
+>>>>>>> text-1  合并的来源
